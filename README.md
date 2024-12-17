@@ -6,7 +6,7 @@ Viaggiatori che cercano assistenza nella pianificazione e che desiderano ottimiz
 ## TagLine
 Il tuo viaggio, il tuo stile: itinerari su misura per esplorare senza pensieri.
 ## Problema risolto
-Plan&Go semplifica la pianificazione di un viaggio personalizzato, permettendo agli utenti di creare pacchetti su misura in pochi passaggi, risparmiando tempo e fatica. Inserendo informazioni di base (data, destinazione, tipo di località, partecipanti al viaggio e aspettativa di vacanza), l’utente riceve proposte di pacchetti che includono trasporto e hotel. È possibile aggiungere esperienze specifiche per adattare il viaggio ai propri interessi. In questo modo, Plan&Go risolve il problema della complessità organizzativa offrendo soluzioni di viaggio rapide e personalizzate.
+Plan&Go risolve il problema della complessità organizzativa nella pianificazione di viaggi, offrendo soluzioni rapide e personalizzate.
 ## Competitor
 I principali competitor di questa applicazioni sono:
 - Booking
@@ -49,6 +49,13 @@ I principali competitor di questa applicazioni sono:
 - Visualizza feedback relativi all’interesse degli utenti verso le attrazioni.
 - Permette all’amministratore di gestire gli utenti e migliorare l’esperienza d’uso dell’applicazione.
 - Visualizza l’elenco degli utenti registrati e la loro attività.
+#### Servizi di assistenza
+- Assistenza clienti per fornire supporto rapido tramite chat o telefono.
+- Gestione reclami con processi per risolvere disservizi e insoddisfazioni.
+#### Sicurezza
+- Crittografia delle transazioni per proteggere le informazioni sensibili.
+- Monitoraggio frodi per implementare sistemi che rilevino attività sospette.
+- Standard del settore per seguire le linee guida che garantiscano la protezione dei diritti dei viaggiatori.
 ### 2. Requisiti non funzionali 
 #### Prestazioni
 - Tempo di risposta deve essere inferiore a 2 secondi per ogni schermata.
@@ -84,11 +91,4 @@ I principali competitor di questa applicazioni sono:
 - Collaborazioni locali per lavorare con enti turistici per esperienze autentiche.
 - Contenuti localizzati che offrano informazioni in diverse lingue, adattate culturalmente.
 - Offerte promozionali per gestire sconti e offerte stagionali.
-#### Servizi di assistenza
-- Assistenza clienti per fornire supporto rapido tramite chat o telefono.
-- Gestione reclami con processi per risolvere disservizi e insoddisfazioni.
-#### Sicurezza
-- Crittografia delle transazioni per proteggere le informazioni sensibili.
-- Monitoraggio frodi per implementare sistemi che rilevino attività sospette.
-- Standard del settore per seguire le linee guida che garantiscano la protezione dei diritti dei viaggiatori.
 
