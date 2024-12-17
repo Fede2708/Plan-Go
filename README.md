@@ -42,6 +42,9 @@ I principali competitor di questa applicazioni sono:
 #### Funzionalità avanzate
 - Raccolta punti o premi per utenti fidelizzati con sconti su pacchetti.
 - Integrazione con mappe e geolocalizzazione per facilitare l’orientamento.
+#### Personalizzazione dell’offerta
+- Segmentazione per offrire pacchetti differenziati per target (famiglie, coppie).
+- Personalizzazione utilizzando dati utente per suggerire esperienze su misura.
 #### Amministratore di sistema
 - Gestisce le attrazioni nel sistema.
 - Inserisce nuove attrazioni, specificando descrizione, orari e prezzi.
@@ -80,10 +83,6 @@ I principali competitor di questa applicazioni sono:
 #### Integrazione con fornitori di servizi di viaggio
 - Contratti chiari per stabilire accordi con compagnie aeree e hotel.
 - Aggiornamenti in tempo reale per sincronizzare disponibilità e prezzi con i fornitori.
-- Standard di qualità per mantenere livelli minimi di servizio.
-#### Personalizzazione dell’offerta
-- Segmentazione per offrire pacchetti differenziati per target (famiglie, coppie).
-- Personalizzazione utilizzando dati utente per suggerire esperienze su misura.
 #### Sistemi di pagamento e prenotazione
 - Metodi di pagamento sicuri che supportino carte di credito, PayPal, ecc.
 - Integrazione piattaforme per interagire con sistemi di prenotazione consolidati.
